@@ -96,7 +96,7 @@ local function copy(targetPlayer)
 theremote:InvokeServer(unpack(wear))
 
 	rs.Events.SavedOutfitsRemote:InvokeServer({
-		OutfitName = "Saved-Fit",
+		OutfitName = "Roupa Roubadakkk",
 		Configs = {},
 		Action = "CreateNewOutfit"
 	})
